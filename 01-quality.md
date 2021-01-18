@@ -24,7 +24,7 @@ $ docker pull lizfernandez/pbi_transcriptomics
 La imagen de Docker que debemos usar se inicia de la siguiente manera en una terminal nueva:
 
 ~~~ {.bash}
-$ docker run -i -t pbi_cinvestav/transcriptomics /bin/bash
+$ docker run -i -t lizfernandez/pbi_transcriptomics /bin/bash
 ~~~
 
 ## Descargando los datos
