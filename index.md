@@ -33,15 +33,17 @@ Esta mañana recibimos un correo de nuestro colaborador:
 > Se espera que los estudiantes tengan alguna experiencia con la terminal,
 > así con el uso del lenguaje de programación R. 
 
-<!---
 
 ### Temas
 
 1. Introducción a la transcriptómica y técnicas de secuenciación masiva. 
-	* [Video - Clase 1]()
+	* [Video - Clase 1](https://www.dropbox.com/s/eunfaoy8sabjlz6/Clase_1_Transcriptomica_BP_2021.mp4?dl=0)
 2. Control de calidad de datos de secuenciación masiva.
-	* [Video - Clase 2]()
+	* [Video - Clase 2](https://www.dropbox.com/s/0cnq7qyw1fjnced/Clase_2_Transcriptomica_BP_2021.mp4?dl=0)
 	* [Práctica](01-quality.html)
+
+<!---
+	
 3. Ensamble de transcriptomas *de novo*.
 	* [Video - Clase 3]()
 	* [Práctica](02-assembly_denovo.html)	
