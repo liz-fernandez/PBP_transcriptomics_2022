@@ -46,12 +46,14 @@ Sp_ds.left.fq.gz     Sp_genes.gtf       Sp_hs.left.fq.gz  Sp_log.left.fq.gz  Sp_
 ~~~
 
 Vamos a generar un directorio de trabajo en el directorio '/usr/local'
+
 ~~~ {.bash}
 $ cd ..
 $ mkdir ANALYSIS
 ~~~
 
 Y copiaremos los datos para trabajar:
+
 ~~~ {.bash}
 $ cd ANALYSIS
 $ cp /usr/local/data/FastQC_Short.tar.gz .
