@@ -295,6 +295,28 @@ el correcto.
 6 Sp.DL_ATCACG_L002_R1      Sp.DL starvation     hs
 ~~~ 
 
+Imprimimos la tabla completa:
+
+~~~ {.r}
+> colData 
+~~~
+
+~~~ {.output}
+               FileName SampleName      Media Condition
+1  Sp.DG_ACTTGA_L002_R1      Sp.DG       rich       log
+2  Sp.DH_CAGATC_L002_R1      Sp.DH starvation       log
+3  Sp.DI_ACAGTG_L002_R1      Sp.DI starvation      plat
+4  Sp.DJ_CGATGT_L002_R1      Sp.DJ starvation      plat
+5  Sp.DK_TTAGGC_L002_R1      Sp.DK starvation        hs
+6  Sp.DL_ATCACG_L002_R1      Sp.DL starvation        hs
+7  Sp.LA_GATCAG_L001_R1      Sp.LA starvation       log
+8  Sp.LB_TGACCA_L001_R1      Sp.LB       rich       log
+9  Sp.LC_GCCAAT_L001_R1      Sp.LC       rich      plat
+10 Sp.LD_GGCTAC_L001_R1      Sp.LD       rich      plat
+11 Sp.LE_TAGCTT_L001_R1      Sp.LE       rich        hs
+12 Sp.LF_CTTGTA_L001_R1      Sp.LF       rich        hs
+~~~ 
+
 Una vez ensamblados nuestros datos podemos usar la función DESeqDataSetFromMatrix para 
 ponerlo en el formato requerido por DESeq2:
 

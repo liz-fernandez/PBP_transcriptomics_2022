@@ -55,15 +55,14 @@ Esta mañana recibimos un correo de nuestro colaborador:
 	* [Práctica](04-expression.html)
 	
 Prácticas basadas en el curso [Trinity RNA-Seq Analysis Workshop](https://github.com/trinityrnaseq/RNASeq_Trinity_Tuxedo_Workshop/wiki).
-<!---	
-* [Archivos a enviar](file_upload.html)
-		
-
-
 
 ![Diagrama de ensamble de transcriptomas](SLIDES/Transcriptomics_Workflow.png)
 
+<!---	
 
+
+* [Archivos a enviar](file_upload.html)
+		
 * [Proyecto final](X.html)
 
 
