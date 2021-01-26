@@ -64,10 +64,9 @@ Prácticas basadas en el curso [Trinity RNA-Seq Analysis Workshop](https://githu
 
 ![Diagrama de ensamble de transcriptomas](SLIDES/Transcriptomics_Workflow.png)
 
-<!---	
-
-
 * [Archivos a enviar](file_upload.html)
+
+<!---	
 		
 * [Proyecto final](X.html)
 
