@@ -14,8 +14,7 @@ Los archivos que necesito que me envíen son los siguientes:
 	* Heatmap_vstTransformed_20MostExpressed.pdf
 	* Heatmap_vstTransformed_DEGenes.pdf
 	
-Deberán subir todos estos archivos a OneDrive y enviarme el link a mi correo 
-selene.fernandez.valverde at gmail com antes del final del día 
-Viernes 29 de Enero. Les sugiero me envíen todo al menos un día antes, porque si su correo 
+Deberán subir todos estos archivos a OneDrive y enviarme el link a mi correo del Cinvestav antes del final del día 
+Viernes 29 de Enero. Su correo debe llamarse "Archivos Transcriptómica 2021" Les sugiero me envíen todo al menos un día antes, porque si su correo 
 llega con retraso, no se tomará en cuenta. 
 
