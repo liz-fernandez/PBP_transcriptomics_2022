@@ -4,8 +4,8 @@ title: Análisis transcriptómicos
 ---
 
 Estamos realizando un estudio transcriptómico para entender la expresion de genes
-en un microorganismo. Hemos logrado aislar RNA en distintas condiciones. Queremos 
-realizar un análisis completo de la expresión diferencial de estos transcritos. 
+en un microorganismo. Hemos logrado aislar RNA en distintas condiciones. Queremos
+realizar un análisis completo de la expresión diferencial de estos transcritos.
 
 Durante esta practica realizaremos el análisis desde identificar la calidad de las secuencias
 hasta medir si los cambios en expresión son significativos usando métodos estadísticos.
@@ -15,13 +15,13 @@ Esta mañana recibimos un correo de nuestro colaborador:
 >
 >Dear collaborator,
 >
->I have great news. All samples passed the QC and were successfully sequenced in 
->our Hi-Seq 2000. You can download the data from the URL below. The md5sum files are also 
+>I have great news. All samples passed the QC and were successfully sequenced in
+>our Hi-Seq 2000. You can download the data from the URL below. The md5sum files are also
 >in the tar-ball.  
 >
 >[https://drive.google.com/open?id=0B9ZVSRlHL8cIbm5EUXczdzM4a2M](https://drive.google.com/open?id=0B9ZVSRlHL8cIbm5EUXczdzM4a2M)
 >
->Can’t wait to see if there are indeed major changes to the transcriptome! 
+>Can’t wait to see if there are indeed major changes to the transcriptome!
 >
 >Happy data wranggling!
 >
@@ -31,49 +31,47 @@ Esta mañana recibimos un correo de nuestro colaborador:
 > ## Conocimientos previos {.prereq}
 >
 > Se espera que los estudiantes tengan alguna experiencia con la terminal,
-> así con el uso del lenguaje de programación R. 
+> así con el uso del lenguaje de programación R.
 
 
 ### Temas
 
-1. Introducción a la transcriptómica y técnicas de secuenciación masiva. 
+1. Introducción a la transcriptómica y técnicas de secuenciación masiva.
 	* [Video - Clase 1](https://www.dropbox.com/s/eunfaoy8sabjlz6/Clase_1_Transcriptomica_BP_2021.mp4?dl=0)
-	* [Presentación](SLIDES/PBP_20_Clase_1.pdf)	
+
+<!---
+	
+	* [Presentación](SLIDES/PBP_20_Clase_1.pdf)
 2. Control de calidad de datos de secuenciación masiva.
 	* [Video - Clase 2](https://www.dropbox.com/s/0cnq7qyw1fjnced/Clase_2_Transcriptomica_BP_2021.mp4?dl=0)
-	* [Presentación](SLIDES/PBP_20_Clase_2.pdf)	
-	* [Práctica](01-quality.html)	
+	* [Presentación](SLIDES/PBP_20_Clase_2.pdf)
+	* [Práctica](01-quality.html)
 3. Ensamble de transcriptomas *de novo*.
 	* [Video - Clase 3](https://www.dropbox.com/s/f3sjcc17t4356us/Clase_3_Transcriptomica_BP_2021.mp4?dl=0)
-	* [Presentación](SLIDES/PBP_20_Clase_3.pdf)	
-	* [Práctica](02-assembly_denovo.html)	
+	* [Presentación](SLIDES/PBP_20_Clase_3.pdf)
+	* [Práctica](02-assembly_denovo.html)
 4. Alineamiento de lecturas a genomas y transcriptomas.
 	* [Video - Clase 4](https://www.dropbox.com/s/1ofovzhhfpiy6xg/Clase_4_Transcriptomica_BP_2021.mp4?dl=0)
-	* [Presentación](SLIDES/PBP_20_Clase_4.pdf)	
+	* [Presentación](SLIDES/PBP_20_Clase_4.pdf)
 	* [Práctica](03-mapping.html)
 5. Ensamble de transcriptomas guiado.
 	* [Video - Clase 5](https://www.dropbox.com/s/ifvlmzw1s9f4eyy/clase_5_transcriptomica_bp_2021.mp4?dl=0)
-	* [Presentación](SLIDES/PBP_20_Clase_5.pdf)	
+	* [Presentación](SLIDES/PBP_20_Clase_5.pdf)
 	* [Práctica](05-assembly_guided.html)
 6. Análisis de expresión diferencial.
 	* [Video - Clase 6](https://www.dropbox.com/s/be1lq31aokoqupq/Clase_6_Transcriptomica_BP_2021.mp4?dl=0)
-	* [Presentación](SLIDES/PBP_20_Clase_6.pdf)	
+	* [Presentación](SLIDES/PBP_20_Clase_6.pdf)
 	* [Práctica](04-expression.html)
-	
+
 Prácticas basadas en el curso [Trinity RNA-Seq Analysis Workshop](https://github.com/trinityrnaseq/RNASeq_Trinity_Tuxedo_Workshop/wiki).
 
 ![Diagrama de ensamble de transcriptomas](SLIDES/Transcriptomics_Workflow.png)
 
 * [Archivos a enviar](file_upload.html)
 
-<!---	
-		
+
+
 * [Proyecto final](X.html)
 
 
 --->
-
-
-
-
-
