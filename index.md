@@ -38,9 +38,12 @@ Esta mañana recibimos un correo de nuestro colaborador:
 
 1. Introducción a la transcriptómica y técnicas de secuenciación masiva.
 	* [Video - Clase 1](https://www.dropbox.com/s/eunfaoy8sabjlz6/Clase_1_Transcriptomica_BP_2021.mp4?dl=0)
+2. Control de calidad de datos de secuenciación masiva.
+	* [Video - Clase 2](https://www.dropbox.com/s/0cnq7qyw1fjnced/Clase_2_Transcriptomica_BP_2021.mp4?dl=0)
+	* [Práctica](01-quality.html)
 
 <!---
-	
+
 	* [Presentación](SLIDES/PBP_20_Clase_1.pdf)
 2. Control de calidad de datos de secuenciación masiva.
 	* [Video - Clase 2](https://www.dropbox.com/s/0cnq7qyw1fjnced/Clase_2_Transcriptomica_BP_2021.mp4?dl=0)
