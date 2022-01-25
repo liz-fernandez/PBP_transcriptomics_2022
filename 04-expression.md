@@ -37,7 +37,7 @@ previamente normalizados estaremos violando los supuestos.
 Descargaremos la anotación de los de *Schizosaccharomyces pombe* genes de aquí:
 
 ~~~ {.bash}
-$ wget https://liz-fernandez.github.io/PBI_transcriptomics_2020/DATA/Sp_genes.gtf
+$ wget https://liz-fernandez.github.io/PBP_transcriptomics_2022/DATA/Sp_genes.gtf
 ~~~
 
 Usaremos el programa [HTSeq](https://pypi.python.org/packages/source/H/HTSeq/). Ya se encuentra 
@@ -56,7 +56,7 @@ $ htseq-count -f bam -s no -r pos Sp_plat_sorted.bam /usr/local/data/Sp_genes.gt
 Veamos uno de los archivos de cuentas, primero las primeras 10 líneas:
 
 ~~~ {.bash}
-$ head Sp_ds.count
+$ head Sp_ds.counts
 ~~~
 
 ~~~ {.output}
@@ -75,7 +75,7 @@ SPAC12B10.14c	70
 Y las últimas 10 líneas:
 
 ~~~ {.bash}
-$ tail Sp_ds.count
+$ tail Sp_ds.counts
 ~~~
 
 ~~~ {.output}
@@ -247,8 +247,8 @@ distintos tratamientos. Por lo tanto no podemos hacer expresión diferencial con
 Realizaremos el análisis con un set de datos distinto que descargaremos así:
 
 ~~~ {.bash}
-$ wget https://liz-fernandez.github.io/PBI_transcriptomics_2020/DATA/Sp_counts_table_complete.txt
-$ wget https://liz-fernandez.github.io/PBI_transcriptomics_2020/DATA/Sp_sample_info.txt
+$ wget https://liz-fernandez.github.io/PBP_transcriptomics_2022/DATA/Sp_counts_table_complete.txt
+$ wget https://liz-fernandez.github.io/PBP_transcriptomics_2022/DATA/Sp_sample_info.txt
 ~~~
 
 Leemos las cuentas en R usando read.delim:
