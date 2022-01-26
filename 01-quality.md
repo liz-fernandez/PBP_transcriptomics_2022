@@ -273,9 +273,9 @@ Lo que necesitamos es el número listado bajo "CONTAINER ID" y usaremos el coman
 $ docker cp 89510b0fd8b6:/usr/local/ANALYSIS/FastQC_Short/QUAL/Partial_SRR2467141_fastqc.html <my-computer-path>
 ~~~
 
-Tip: Lo más sencillo es entrar via la terminal al directorio de trabajo en su computadora y reemplazar la ruta (path) con un punto. 
+Tip: Lo más sencillo es entrar via la terminal al directorio de trabajo en su computadora y reemplazar la ruta (path) con un punto.
 
-Una vez descargado podrán dar doble click en el archivo. El resultado obtenido deberá ser similar a [este](http://liz-fernandez.github.io/PBI_transcriptomics_2020/Partial_SRR2467141_fastqc.html).
+Una vez descargado podrán dar doble click en el archivo. El resultado obtenido deberá ser similar a [este](http://liz-fernandez.github.io/PBP_transcriptomics_2022/Partial_SRR2467141_fastqc.html).
 
 Esta página contiene mucha información desglosada en las siguientes secciones:
 
@@ -292,7 +292,7 @@ Esta página contiene mucha información desglosada en las siguientes secciones:
 11. **Adapter Content** - Muestra el contenido de adaptadores en la librería.
 12. **Kmer Content** - Muestra la distribución de kmers (subcadenas de tamaño específico) en cada posición de las lecturas. Solo se realiza en el 2% de la librería.
 
-Revisemos los resultados una vez más dando click en el [link](http://liz-fernandez.github.io/transcriptome_analysis/Partial_SRR2467141_fastqc.html).
+Revisemos los resultados una vez más dando click en el [link](http://liz-fernandez.github.io/PBP_transcriptomics_2022/Partial_SRR2467141_fastqc.html).
 
 En general vemos que la mayoría de los criterios tienen una palomita verde o certificado
 de pase de control de calidad, con la excepción de el contenido de GC por base.

@@ -186,7 +186,7 @@ Partial_SRR2467141_fastqc.zip</code></pre>
 <p>Lo que necesitamos es el número listado bajo “CONTAINER ID” y usaremos el comando ‘docker cp’, reemplazando el número de contenedor y el path con <em>los correspondientes a su computadora</em>:</p>
 <div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash">$ <span class="kw">docker</span> cp 89510b0fd8b6:/usr/local/ANALYSIS/FastQC_Short/QUAL/Partial_SRR2467141_fastqc.html <span class="kw">&lt;</span>my-computer-path<span class="kw">&gt;</span></code></pre></div>
 <p>Tip: Lo más sencillo es entrar via la terminal al directorio de trabajo en su computadora y reemplazar la ruta (path) con un punto.</p>
-<p>Una vez descargado podrán dar doble click en el archivo. El resultado obtenido deberá ser similar a <a href="http://liz-fernandez.github.io/PBI_transcriptomics_2020/Partial_SRR2467141_fastqc.html">este</a>.</p>
+<p>Una vez descargado podrán dar doble click en el archivo. El resultado obtenido deberá ser similar a <a href="http://liz-fernandez.github.io/PBP_transcriptomics_2022/Partial_SRR2467141_fastqc.html">este</a>.</p>
 <p>Esta página contiene mucha información desglosada en las siguientes secciones:</p>
 <ol style="list-style-type: decimal">
 <li><strong>Basic Statistics</strong> - Las estadística básicas del experimento.</li>
@@ -202,7 +202,7 @@ Partial_SRR2467141_fastqc.zip</code></pre>
 <li><strong>Adapter Content</strong> - Muestra el contenido de adaptadores en la librería.</li>
 <li><strong>Kmer Content</strong> - Muestra la distribución de kmers (subcadenas de tamaño específico) en cada posición de las lecturas. Solo se realiza en el 2% de la librería.</li>
 </ol>
-<p>Revisemos los resultados una vez más dando click en el <a href="http://liz-fernandez.github.io/transcriptome_analysis/Partial_SRR2467141_fastqc.html">link</a>.</p>
+<p>Revisemos los resultados una vez más dando click en el <a href="http://liz-fernandez.github.io/PBP_transcriptomics_2022/Partial_SRR2467141_fastqc.html">link</a>.</p>
 <p>En general vemos que la mayoría de los criterios tienen una palomita verde o certificado de pase de control de calidad, con la excepción de el contenido de GC por base.</p>
 <p>A pesar de que no proporcionamos esta información, el programa ha inferido la codificación ASCII (Sanger / Illumina 1.9) así como contado el número de secuencias, su tamaño y su contenido de GC.</p>
 <p>Cuando observamos la <strong>calidad por base</strong>, vemos que la mayoría de las bases están en la zona verde o tienen buena calidad. Cada base esta representada por un diagrama de caja que proporciona una buena idea acerca de la distribución de los puntajes de calidad en todas las secuencias. Es evidente que la calidad decrece levemente al inicio y más marcadamente al final de la secuencia. Esto es conocido ya que pequeños errores se acumulan mientras más larga sea la secuencia, esta es una de las razones por la que los secuenciadores basados en incorporación de nucleótidos tienen un límite en la longitud máxima de sus lecturas.</p>
