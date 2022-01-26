@@ -43,11 +43,15 @@ Esta mañana recibimos un correo de nuestro colaborador:
 	* [Práctica](01-quality.html)
 3. Ensamble de transcriptomas *de novo*.
 	* [Video - Clase 3](https://www.dropbox.com/s/f3sjcc17t4356us/Clase_3_Transcriptomica_BP_2021.mp4?dl=0)
+	* [Práctica](02-assembly_denovo.html)
+4. Alineamiento de lecturas a genomas y transcriptomas.
+	* [Video - Clase 4](https://www.dropbox.com/s/1ofovzhhfpiy6xg/Clase_4_Transcriptomica_BP_2021.mp4?dl=0)
+	* [Práctica](03-mapping.html)
 
 
 <!---
 
-	* [Presentación](SLIDES/PBP_20_Clase_1.pdf)
+
 2. Control de calidad de datos de secuenciación masiva.
 	* [Video - Clase 2](https://www.dropbox.com/s/0cnq7qyw1fjnced/Clase_2_Transcriptomica_BP_2021.mp4?dl=0)
 	* [Presentación](SLIDES/PBP_20_Clase_2.pdf)
