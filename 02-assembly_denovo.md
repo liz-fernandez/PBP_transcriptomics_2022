@@ -12,12 +12,12 @@ minutes: 5
 Para empezar, crearemos un directorio para almacenar nuestro resultados:
 
 ~~~ {.bash}
-cd 
+cd /usr/local/
 mkdir FASTQ_Complete
 cd FASTQ_Complete
 ~~~ 
 
-Y descargaremos los siguientes archivos fastq usando wget (ya están en el directorio '/usr/local/data'):
+Y descargaremos los siguientes archivos fastq usando wget (ya están en el directorio '/usr/local/data' - copialos a tu directorio FASTQ_Complete):
 
 ~~~ {.bash}
 $ wget https://liz-fernandez.github.io/PBI_transcriptomics/datasets/Sp_ds.left.fq.gz 
