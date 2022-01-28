@@ -384,7 +384,7 @@ sampleDistMatrixVST &lt;-<span class="st"> </span><span class="kw">as.matrix</sp
 
 colors &lt;-<span class="st"> </span><span class="kw">colorRampPalette</span>( <span class="kw">rev</span>(<span class="kw">brewer.pal</span>(<span class="dv">9</span>, <span class="st">&quot;Blues&quot;</span>)) )(<span class="dv">255</span>)
 <span class="kw">pdf</span>(<span class="st">&quot;Heatmap_vstTransformed.pdf&quot;</span>,<span class="dv">10</span>,<span class="dv">10</span>)
-<span class="kw">pheatmap</span>(sampleDistMatrixRLD,
+<span class="kw">pheatmap</span>(sampleDistMatrixVST,
          <span class="dt">clustering_distance_rows=</span>sampleDistsRLD,
          <span class="dt">clustering_distance_cols=</span>sampleDistsRLD,
          <span class="dt">col=</span>colors)
