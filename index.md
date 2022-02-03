@@ -38,20 +38,26 @@ Esta mañana recibimos un correo de nuestro colaborador:
 
 1. Introducción a la transcriptómica y técnicas de secuenciación masiva.
 	* [Video - Clase 1](https://www.dropbox.com/s/eunfaoy8sabjlz6/Clase_1_Transcriptomica_BP_2021.mp4?dl=0)
+	* [Presentación](SLIDES/PBP_22_Clase_1.pdf)    
 2. Control de calidad de datos de secuenciación masiva.
 	* [Video - Clase 2](https://www.dropbox.com/s/0cnq7qyw1fjnced/Clase_2_Transcriptomica_BP_2021.mp4?dl=0)
+	* [Presentación](SLIDES/PBP_22_Clase_2.pdf)    
 	* [Práctica](01-quality.html)
 3. Ensamble de transcriptomas *de novo*.
 	* [Video - Clase 3](https://www.dropbox.com/s/f3sjcc17t4356us/Clase_3_Transcriptomica_BP_2021.mp4?dl=0)
+	* [Presentación](SLIDES/PBP_22_Clase_3.pdf)    
 	* [Práctica](02-assembly_denovo.html)
 4. Alineamiento de lecturas a genomas y transcriptomas.
 	* [Video - Clase 4](https://www.dropbox.com/s/1ofovzhhfpiy6xg/Clase_4_Transcriptomica_BP_2021.mp4?dl=0)
+	* [Presentación](SLIDES/PBP_22_Clase_4.pdf)    
 	* [Práctica](03-mapping.html)
 5. Ensamble de transcriptomas guiado.
 	* [Video - Clase 5](https://www.dropbox.com/s/ifvlmzw1s9f4eyy/clase_5_transcriptomica_bp_2021.mp4?dl=0)
+	* [Presentación](SLIDES/PBP_22_Clase_5.pdf)    
 	* [Práctica](05-assembly_guided.html)
 6. Análisis de expresión diferencial.
 	* [Video - Clase 6](https://www.dropbox.com/s/be1lq31aokoqupq/Clase_6_Transcriptomica_BP_2021.mp4?dl=0)
+	* [Presentación](SLIDES/PBP_22_Clase_6.pdf)    
 	* [Práctica](04-expression.html)
 
 Prácticas basadas en el curso [Trinity RNA-Seq Analysis Workshop](https://github.com/trinityrnaseq/RNASeq_Trinity_Tuxedo_Workshop/wiki).
